@@ -16,7 +16,7 @@
 		<sonar.host.url>http://172.31.81.142:9000/</sonar.host.url>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
-		<sonar.sources>src/main/java</sonar.sources>
+		<sonar.sources>src/main/webapp</sonar.sources>
 		<!-- <sonar.tests>src/test/java</sonar.tests> -->
 		<sonar.java.binaries>target/classes</sonar.java.binaries>
 		<sonar.exclusions>**/*.css</sonar.exclusions>
